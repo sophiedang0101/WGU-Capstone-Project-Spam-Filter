@@ -1,4 +1,4 @@
-### WGU-Capstone-Project
+## WGU-Capstone-Project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiedang0101/WGU-Capstone-Project/HEAD)
 
 - A spam filter using the Support Vector Machine (SVM) algorithm to distinguish legitimate from illegitimate emails.
@@ -6,7 +6,7 @@
 - Advanced visualization tools such as "wordcloud", "matplotlib", and "seaborn" were used to provide insights into the model's performance and guide necessary adjustments.
 - Project received the Capstone Excellence Award from Western Governors University.
 
-### Techs Used
+## Technology Stack
 - Python
 - Jupyter Notebook
 - Pandas
